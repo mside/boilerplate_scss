@@ -1,0 +1,16 @@
+/* line 4, ../sass/style.scss */
+nav ul {
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+}
+/* line 10, ../sass/style.scss */
+nav li {
+  display: inline-block;
+}
+/* line 12, ../sass/style.scss */
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
